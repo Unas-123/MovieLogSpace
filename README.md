@@ -2,7 +2,7 @@
 
 Track, rate, and share movies & TV shows you watch.
 
-! [React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite)
 ![Express](https://img.shields.io/badge/Express-5-000000?logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?logo=mongodb)
@@ -21,12 +21,12 @@ Track, rate, and share movies & TV shows you watch.
 ## Screenshots
 
 
-![Discover](assets/dicover.png)
-![My Log](assets/mylog.png)
-![For You](assets/foryou.png)
-![Stats](assets/stats.png)
-![Trending](assets/trending .png)
-![Share](assets/share.png)
+![Discover](frontend/assets/dicover.png)
+![My Log](frontend/assets/mylog.png)
+![For You](frontend/assets/foryou.png)
+![Stats](frontend/assets/stats.png)
+![Trending](frontend/assets/trending.png)
+![Share](frontend/assets/share.png)
 -->
 
 ## Tech Stack
